@@ -1,0 +1,19 @@
+body {
+    background-color: cyan;
+}
+
+#Next_Button {
+    color:blue;
+    background-color: chartreuse;
+}
+
+#Title_ {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 50px;
+}
+
+#family_member_name {
+    font-family: Impact;
+    font-size: 35px;
+}
+  
